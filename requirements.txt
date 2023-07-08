@@ -1,7 +1,0 @@
-pyrogram
-tgcrypto
-requests
-hachoir
-pytz
-hachoir
-ffmpeg-python
