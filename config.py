@@ -4,7 +4,7 @@ api_hash = "8c06515b5befbc7f4f5fda224346ff0d"
 
 bot_token = "6044778105:AAGxd9ibywYm_r_I1MU7xJadGhI7_MAAADc"
 
-GROUP_TAG = "_.RC._"
+GROUP_TAG = "RC"
 
 sudo_users = [1367244724]
 
