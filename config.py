@@ -2,7 +2,7 @@ api_id = 27983906
 
 api_hash = "8c06515b5befbc7f4f5fda224346ff0d"
 
-bot_token = "6044778105:AAGxd9ibywYm_r_I1MU7xJadGhI7_MAAADc"
+bot_token = "6044778105:AAHaYtYCGcpUMprQ7lUVpXkvmZeb-WN7X5o"
 
 GROUP_TAG = "RC"
 
